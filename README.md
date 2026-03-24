@@ -25,7 +25,7 @@
 
 2. 遇到问题，先搜索，先自己想；
    想清楚了问题是什么，再去问人——带着具体问题问，比带着模糊困惑问，收获多得多
-   推荐阅读[提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)
+   > 推荐阅读[提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)
 
 3. 强烈建议使用 Google 搜索引擎搜索所需内容，可以尝试思考一下为什么我们推荐 Google 
 
