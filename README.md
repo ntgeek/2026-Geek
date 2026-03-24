@@ -176,7 +176,7 @@
 * **Git 提交练习文档 (hello.md)**
 * **[可选] 问题解决记录**
 * **[可选] Git 进阶笔记**
-* ***Your other thoughts**
+* **Your other thoughts**
 
 ### ❤友情提示
 
@@ -243,7 +243,7 @@
 * **JavaScript 学习笔记**
 * **静态网页作品链接** 
 * **页面编后感**
-* ***Your other thoughts**
+* **Your other thoughts**
 
 ### ❤友情提示
 
