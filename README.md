@@ -269,7 +269,7 @@
 
 1. **👉复刻 Geek 组旧版的招新网站，将完成的网页挂载在 `GitHub Pages` 上，并把链接记录在 `Tasks` 仓库  `README` 文档里👈**
 
-- [复刻网站的资料](https://github.com/ntgeek/2025-Geek/blob/first_half_tasks/%E5%A4%8D%E5%88%BB%E6%8B%9B%E6%96%B0%E7%BD%91%E7%AB%99%E8%A6%81%E6%B1%82%E7%82%B9.zip)
+- [复刻网站的资料](https://github.com/ntgeek/2026-Geek/blob/main/%E5%A4%8D%E5%88%BB%E6%8B%9B%E6%96%B0%E7%BD%91%E7%AB%99%E8%A6%81%E6%B1%82%E7%82%B9.zip)
 
 2. 仿照阶段三的任务2，完成你复刻此项目的 “编后感”
 3. **[选做-进阶]** 在 PC 端页面适配良好的基础上，尝试适配移动端的页面
